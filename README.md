@@ -1,4 +1,11 @@
 # CODTECH--TASK2
+* NAME: PASUPULA SRUTHI
+* COMPANY:CODTECH IT SOLUTIONS
+* ID:CT08DS6076
+* D0MAIN:WEB DEVELOPMENT
+* DURATION:AUGUST TO SEPTMBER 2024
+
+  
 # TODO LIST APP
 ## TABLE OF CONTENTS
 * [General info](#general-info)
@@ -10,6 +17,6 @@
   project is created with:
   * [HTML](#HTML)
   * [CSS](#CSS)
-  * [JAVA SCRIPT](#JAVA SCRIPT)
+  * [JAVASCRIPT](#JAVASCRIPT)
     ## SETUP
     to run this project open index1.html
